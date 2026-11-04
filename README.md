@@ -23,13 +23,6 @@ Requirements-Documentation-for-SRE-LAB
 - FR-02: The system shall display the student's recorded tasks.
 - FR-03: The system shall let a student mark a task as complete
 
-
-
-## Functional requirements
-- FR-01: The system shall let a student create a task with a title.
-- FR-02: The system shall display the student's recorded tasks.
-- FR-03: The system shall let a student mark a task as complete
-
 ## Acceptance criteria
 - FR-01: Given the title "Read Chapter 1", saving a new task causes that title to appear in the task list.
 - FR-02: With two saved tasks, opening the list shows both titles.- FR-03: Marking an incomplete task complete changes its displayed status to Complete.
